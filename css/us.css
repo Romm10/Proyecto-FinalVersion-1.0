@@ -1,0 +1,76 @@
+input[type=button],input[type=submit]
+
+{
+background-color: rgb(255, 255, 255);
+border: none;
+color:black;
+font-weight: bold;
+padding: 6px 20px;
+text-align: center;
+font-size:16px;
+margin: 4px 4px;
+box-shadow: 3px 3px 3px black;
+position: center;
+font-family: Arial;
+}
+
+input[type="text"]
+{
+font-family: Arial;
+color:black;
+background-color:white;
+padding:4px;
+text-align: left;
+font-size: 16px;
+margin: 4px 4px;
+box-shadow: 2px 2px 2px black;
+}
+
+.off{
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: rgb(0, 0, 0);
+	color: #fff
+
+}
+
+body{
+	background-image:url(../IMG/fondob.jpg);
+	width: 99%;
+	height:100%vh;
+	background-size: cover;
+
+	color:rgb(0, 0, 0);
+	
+}
+
+h1
+{
+color: #F0EFEF;
+
+}
+
+
+label
+{
+font-family: Arial;
+padding: 4px;
+font-weight: bold;
+color: black;
+text-align: center;
+align:center;
+font-size: 18px;
+}
+
+table
+{
+background-color: #F0EFEF;
+padding: 5px 5px;
+}
+
+td
+{
+padding: 6px 4px;
+}
+

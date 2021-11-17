@@ -1,0 +1,38 @@
+body{
+  background-image:url(../IMG/fondocarr.jpg);
+	width: 100%;
+	height:100%vh;
+	background-size: cover;
+
+	color:white;
+}
+
+
+  footer {
+  width: 100%;
+  background: #202020;
+  color: white;
+  font-size: 12px;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 1rem;
+  padding-bottom: 20px;
+  
+}
+
+#camp{
+font-family: 'Carter One', Arial, Helvetica, sans-serif;
+text-align: center;
+    color:#912409; 
+  font-size: 70pt;
+}
+.info {
+    color: white;
+
+  font: oblique 120% arial;
+    
+}
+.camp{
+     color: rgb(32, 14, 136);
+  font-family:"Segoe UI";
+}
